@@ -38,6 +38,15 @@ li::first-letter {
 .row {
   padding-top: 50px;
   padding-bottom: 20px;
+  margin: 0 auto;
+}
+.col-2 {
+  border: 1.5px solid #dddddd;
+  border-radius: 8px;
+  padding: 0px;
+  margin-left: 4px;
+  margin-right: 4px;
+  max-width: 131px;
 }
 .weather-temperature img {
   margin-right: 10px;
