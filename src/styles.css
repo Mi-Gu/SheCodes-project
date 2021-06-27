@@ -35,6 +35,9 @@ li::first-letter {
   border: 1.5px solid grey;
   border-radius: 8px;
 }
+.col-7 {
+  padding-left: 0px;
+}
 .row {
   padding-top: 50px;
   padding-bottom: 20px;
