@@ -42,6 +42,9 @@ li::first-letter {
   color: #156a9b;
   border-color: #e4e4e4;
 }
+.description {
+  color: #e4e4e4;
+}
 .row {
   padding-top: 50px;
   padding-bottom: 20px;
